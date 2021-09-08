@@ -8,5 +8,5 @@ Amazon forests are the **most unexplored**,the remoteness in that place makes us
 ---
 # Directions from Maryville to Newyork
 >1.From Missouri to newyork by car
->>2.trip begins in the state of Missouri. It ends in the state of New York
->>>X.total driving distance from Missouri to New York is 1,115 miles or 1 794 kilometers
+>2.trip begins in the state of Missouri. It ends in the state of New York
+>3.total driving distance from Missouri to New York is 1,115 miles or 1 794 kilometers
