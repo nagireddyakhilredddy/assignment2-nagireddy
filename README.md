@@ -5,6 +5,7 @@
 Amazon forests are the **most unexplored**,the remoteness in that place makes us feel everybit of **peace** and **wildlife**.<br>
 **I used bold for above line and this line**
 
---- # Maryville to Newyork
+---
+# Directions from Maryville to Newyork
 >1.Line 34 bus to St. Louis, fly to New York La Guardia
->>2.Fly Kansas City to New York JFK ***
+>>2.Fly Kansas City to New York JFK 
