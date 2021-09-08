@@ -7,5 +7,6 @@ Amazon forests are the **most unexplored**,the remoteness in that place makes us
 
 ---
 # Directions from Maryville to Newyork
->1.Line 34 bus to St. Louis, fly to New York La Guardia
->>2.Fly Kansas City to New York JFK 
+>1.From Missouri to newyork by car
+>>2.trip begins in the state of Missouri. It ends in the state of New York
+
