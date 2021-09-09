@@ -29,3 +29,17 @@ Amazon forests are the **most unexplored**,the remoteness in that place makes us
 * Minors are not required to take any id
 
 [Link of Aboutme](https://github.com/nagireddyakhilredddy/assignment2-nagireddy/blob/main/AboutMe.md)
+
+
+-----------------------------
+## Tables
+
+ The Table here shows the best food to try once in a lifetime,that I would recommend someone.
+
+  | Food              | Location                |  Amount  |
+  | ---               | ---                     |---       |
+  |Chefs Biryani      |Hyderabad                | $15      |
+  |Biscuits           |Charminar                | $5       |
+  |Kaju Chicken       |Kritunga,Hyderabad       | $14      |
+  |Mutton Biryani     |Mehfil Restaurant        | $13      |
+  |Pav Bhaji          |Mumbai                   | $5       |
