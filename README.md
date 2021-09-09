@@ -28,4 +28,4 @@ Amazon forests are the **most unexplored**,the remoteness in that place makes us
 * Don't forget to take id for sure.
 * Minors are not required to take any id
 
-[Link of AboutMe](https://github.com/nagireddyakhilredddy/assignment2-nagireddy/blob/main/AboutMe.md)
+[Link of Aboutme](https://github.com/nagireddyakhilredddy/assignment2-nagireddy/blob/main/AboutMe.md)
