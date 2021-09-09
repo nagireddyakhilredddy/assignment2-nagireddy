@@ -43,3 +43,10 @@ Amazon forests are the **most unexplored**,the remoteness in that place makes us
   |Kaju Chicken       |Kritunga,Hyderabad       | $14      |
   |Mutton Biryani     |Mehfil Restaurant        | $13      |
   |Pav Bhaji          |Mumbai                   | $5       |
+
+  ---------------------------
+
+  # Pithy quotes
+
+  > Money is a tool, so I don't have to be. - *Eddie Mumford*
+  >Nobody reaches anywhere by believing. - *Osho*
