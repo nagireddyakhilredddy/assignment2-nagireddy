@@ -63,16 +63,16 @@ Source:https://www.2brightsparks.com/resources/articles/introduction-to-hashing-
 
 
 
-  long long compute_hash(string const& s) {
-    const int p = 31;
-    const int m = 1e9 + 9;
-    long long hash_value = 0;
-    long long p_pow = 1;
-    for (char c : s) {
-        hash_value = (hash_value + (c - 'a' + 1) * p_pow) % m;
-        p_pow = (p_pow * p) % m;
-    }
-    return hash_value;
-}
+  long long compute_hash(string const& s) {<br>
+    const int p = 31;<br>
+    const int m = 1e9 + 9;<br>
+    long long hash_value = 0;<br>
+    long long p_pow = 1;<br>
+    for (char c : s) {<br>
+        hash_value = (hash_value + (c - 'a' + 1) * p_pow) % m;<br>
+        p_pow = (p_pow * p) % m;<br>
+    }<br>
+    return hash_value;<br>
+}<br>
 
 code source: https://cp-algorithms.com/string/string-hashing.html
