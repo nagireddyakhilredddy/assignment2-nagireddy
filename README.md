@@ -21,3 +21,10 @@ Amazon forests are the **most unexplored**,the remoteness in that place makes us
    5. take a cab
    6. go to statue of liberty
    7. Have fun
+
+   * have Backpacks, strollers for kids
+   * take big umberellas,
+   * A camera to take pics
+   * All the above items are not allowed at the Statue of liberty location
+   * Don't forget to take id for sure.
+   * Minors are not required to take any id
