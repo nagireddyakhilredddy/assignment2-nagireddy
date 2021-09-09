@@ -6,5 +6,5 @@ in Computer Science and Enginnering at Lingayas University,New delhi,India.
 I choose this Major because,Iam interested in Web development,Becoming a full stack web developer would likely make me happy.
  
 
- ![Adding a image file to my bio] (C:\Users\S545143\Desktop\Web apps notes\webapps-repos\assignment2-nagireddy\my image.jpeg)
+ ![Adding a image file to my bio](Charminar.jpg)
  
