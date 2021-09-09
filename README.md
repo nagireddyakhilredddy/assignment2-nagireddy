@@ -49,5 +49,30 @@ Amazon forests are the **most unexplored**,the remoteness in that place makes us
   # Pithy quotes
 
   > Money is a tool, so I don't have to be. - *Eddie Mumford*
-  
+
   >Nobody reaches anywhere by believing. - *Osho*
+
+  ------
+
+  # code fencing
+
+   
+Hashing is an algorithm that calculates a fixed-size bit string value from a file. A file basically contains blocks of data. Hashing transforms this data into a far shorter fixed-length value or key which represents the original string. ... A hash is usually a hexadecimal string of several characters.
+
+Source:https://www.2brightsparks.com/resources/articles/introduction-to-hashing-and-its-uses.html
+
+
+
+  long long compute_hash(string const& s) {
+    const int p = 31;
+    const int m = 1e9 + 9;
+    long long hash_value = 0;
+    long long p_pow = 1;
+    for (char c : s) {
+        hash_value = (hash_value + (c - 'a' + 1) * p_pow) % m;
+        p_pow = (p_pow * p) % m;
+    }
+    return hash_value;
+}
+
+code source: https://cp-algorithms.com/string/string-hashing.html
