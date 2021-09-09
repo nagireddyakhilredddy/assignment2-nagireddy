@@ -61,7 +61,7 @@ Hashing is an algorithm that calculates a fixed-size bit string value from a fil
 
 Source:https://www.2brightsparks.com/resources/articles/introduction-to-hashing-and-its-uses.html
 
-
+'''
 
   long long compute_hash(string const& s) {<br>
     const int p = 31;<br>
@@ -74,5 +74,5 @@ Source:https://www.2brightsparks.com/resources/articles/introduction-to-hashing-
     }<br>
     return hash_value;<br>
 }<br>
-
+'''
 code source: https://cp-algorithms.com/string/string-hashing.html
