@@ -1,7 +1,6 @@
 # assignment2-nagireddy
 # Akhil Reddy Nagireddy
 ### My Favourite place ,i wish to visit in my life is Amazon Forests
-
 Amazon forests are the **most unexplored**,the remoteness in that place makes us feel everybit of **peace** and **wildlife**.<br>
 **I used bold for above line and this line**
 
@@ -28,3 +27,5 @@ Amazon forests are the **most unexplored**,the remoteness in that place makes us
 * All the above items are not allowed at the Statue of liberty location
 * Don't forget to take id for sure.
 * Minors are not required to take any id
+
+[Link of AboutMe](https://github.com/nagireddyakhilredddy/assignment2-nagireddy/blob/main/AboutMe.md)
